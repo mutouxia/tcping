@@ -43,3 +43,4 @@ Ping statistics http://hui.lu:80
 Approximate trip times:
 	Minimum = 56.750403ms, Maximum = 232.880173ms, Average = 101.903482ms
 ```
+1
